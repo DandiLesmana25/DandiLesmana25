@@ -34,8 +34,15 @@ i'm **Dandi Lesmana**.
 ### Tech Stack
   <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/MySQL-3DDC84?logo=mysql&logoColor=white" />
-  <img align="left" src="https://img.shields.io/badge/laravel-%23ED8B00.svg?logo=laravel&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img align="left" src="https://img.shields.io/badge/php-%23ED8B00.svg?logo=php&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/Docker-%230095D5.svg?logo=docker&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/Linux-%230095D5.svg?logo=linux&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  
   <br><br>
