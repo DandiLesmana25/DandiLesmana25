@@ -15,6 +15,12 @@ i'm **Dandi Lesmana**.
   <a href="https://www.youtube.com/channel/UC29IwuQoIxLlUGYnq452pXA/" target="_blank">
     <img alt="youtube" src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
   </a> 
+  <a href="https://medium.com/@dandilesmana.if21" target="_blank">
+    <img alt="medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a> 
+  <a href="dandilesmana.if21@gmail.com" target="_blank">
+    <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a> 
 </p>
 
 
