@@ -4,7 +4,7 @@ i'm **Dandi Lesmana**.
 - 🌱 I’m currently learning about cloud technology for back-end apps
 - 🌱 Becoming a backend developer expert is my dream. 
 
-### 🔍 You Can Find Me at 
+### 🔍 Reach me on
 <p> 
   <a href="https://www.linkedin.com/in/dandi-lesmana-b52b3122b/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
