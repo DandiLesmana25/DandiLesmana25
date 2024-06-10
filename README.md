@@ -2,7 +2,8 @@
 i'm **Dandi Lesmana**.
 - 🌱 I’m students **Informatics engineering** at [UBP](https://www.linkedin.com/school/ubp-karawang/).
 - 🌱 I’m currently learning about cloud technology for back-end apps
-- 🌱 Becoming a backend developer expert is my dream. 
+- 🌱 Becoming a backend developer expert is my dream.
+- I also active share my Learning journey on <a href="https://www.youtube.com/channel/UC29IwuQoIxLlUGYnq452pXA">Youtube</a>
 
 ### 🔍 Reach me on
 <p> 
