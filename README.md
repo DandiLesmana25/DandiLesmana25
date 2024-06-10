@@ -9,12 +9,12 @@ i'm **Dandi Lesmana**.
   <a href="https://www.linkedin.com/in/dandi-lesmana-b52b3122b/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
-  <a href="https://www.instagram.com/dandilesmanaaa/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> 
-  <a href="https://www.youtube.com/channel/UC29IwuQoIxLlUGYnq452pXA/" target="_blank">
+   <a href="https://www.youtube.com/channel/UC29IwuQoIxLlUGYnq452pXA/" target="_blank">
     <img alt="youtube" src="https://img.shields.io/badge/youtube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
   </a> 
+  <a href="https://www.instagram.com/dandilesmanaaa/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="https://medium.com/@dandilesmana.if21" target="_blank">
     <img alt="medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a> 
