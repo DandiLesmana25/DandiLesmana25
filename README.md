@@ -1,9 +1,11 @@
 # Hi everyone! 
-i'm **Dandi Lesmana**.
-- 🌱 I’m students **Informatics engineering** at [UBP](https://www.linkedin.com/school/ubp-karawang/).
-- 🌱 I’m currently learning about cloud technology for back-end apps
-- 🌱 Becoming a backend developer expert is my dream.
-- I also active share my Learning journey on <a href="https://www.youtube.com/channel/UC29IwuQoIxLlUGYnq452pXA">Youtube</a> and <a href="https://dandilesmana.dev">My webSite</a>
+I'm Dandi Lesmana, an Informatics Engineering student at <a  href="https://www.linkedin.com/school/ubp-karawang" >Universitas Buana Perjuangan Karawang<a/>. <br>
+Currently, I'm passionate about delving into cloud technology for backend applications. 
+
+I'm actively sharing my learning journey on <a href="https://www.youtube.com/channel/UC29IwuQoIxLlUGYnq452pXA">Youtube</a> and <a href="https://dandilesmana.dev">My Personal WebSite</a> Feel free to explore my repositories for projects and code samples.
+
+I aspire to be a skilled software engineer. <br>
+
 
 ### 🔍 Reach me on:
 <p> 
