@@ -41,11 +41,9 @@ I aspire to be a skilled software engineer. <br>
   <img align="left" src="https://img.shields.io/badge/php-%23ED8B00.svg?logo=php&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/Docker-%230095D5.svg?logo=docker&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/Linux-%230095D5.svg?logo=linux&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   
   <br><br>
