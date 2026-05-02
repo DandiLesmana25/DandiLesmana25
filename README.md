@@ -1,10 +1,13 @@
-# Hi everyone! 
-I'm Dandi Lesmana, an Informatics Engineering student at <a  href="https://www.linkedin.com/school/ubp-karawang" >Universitas Buana Perjuangan Karawang<a/>. <br>
-Currently, I'm passionate about delving into cloud technology for backend applications. 
+# Hi there, I'm Dandi Lesmana! 👋
+### Full-Stack Web Developer | Google Cloud Certified ACE | IoT & Robotics Enthusiast
+
+I am a professional **Full-Stack Web Developer** currently building innovative solutions in the **Edutech** industry. With a Bachelor’s degree in Computer Science and a **Google Cloud Certified Associate Cloud Engineer** credential, I specialize in bridging the gap between robust software development and scalable cloud infrastructure.
+
+When I'm not coding web applications, I'm likely experimenting with **IoT hardware** or mentoring the next generation of engineers at **Dandi Robotics Lab**.
+
 
 I'm actively sharing my learning journey on <a href="https://www.youtube.com/channel/UC29IwuQoIxLlUGYnq452pXA">Youtube</a> and <a href="https://dandilesmana.dev">My Personal WebSite</a> Feel free to explore my repositories for projects and code samples.
 
-I aspire to be a skilled software engineer. <br>
 
 
 ### 🔍 Reach me on:
