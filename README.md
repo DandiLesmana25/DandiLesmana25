@@ -30,12 +30,6 @@ I'm actively sharing my learning journey on <a href="https://www.youtube.com/cha
 </p>
 
 
-<p align="left">
-<a href="https://github.com/DandiLesmana25">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DandiLesmana25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DandiLesmana25&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### Tech Stack
   <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
